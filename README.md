@@ -15,7 +15,7 @@ This tool can be useful for **security researchers**, **penetration testers**, a
 Ensure you have the required dependencies installed:  
 
 ```bash
-pip install requests beautifulsoup4 colorama
+pip install -r requirements.txt
 ```
 
 # 🚀 Usage
